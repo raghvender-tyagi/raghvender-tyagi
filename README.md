@@ -60,7 +60,6 @@ The focus is on **scalable architecture, optimized retrieval, and clean system d
 
 ---
 
-## 🏗️ System Architecture (RAG Example)
 
 
 
