@@ -1,6 +1,9 @@
 🚀 GenAI • RAG • Agentic Systems
+
 Python | LLMs | Automation
-![Python](https://img.shields.io/badge/Python-3.10+-blue) ![GenAI](https://img.shields.io/badge/GenAI-LLMs-orange) ![RAG](https://img.shields.io/badge/RAG-Vector%20Search-green) ![Agents](https://img.shields.io/badge/Agentic%20AI-LangGraph-purple) ![Automation](https://img.shields.io/badge/Automation-n8n-black) ![Status](https://img.shields.io/badge/Status-Active-success)
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![GenAI](https://img.shields.io/badge/GenAI-LLMs-orange) ![RAG](https://img.shields.io/badge/RAG-Vector%20Search-green) ![Agents](https://img.shields.io/badge/Agentic%20AI-LangGraph-purple) ![Automation](https://img.shields.io/badge/Automation-n8n-black)\
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 Production-grade Generative AI systems built using Retrieval-Augmented Generation (RAG), agentic workflows, and scalable automation pipelines. Focused on real-world deployment, performance optimization, and system reliability.
 
