@@ -1,64 +1,47 @@
-## Hi there 👋
+🚀 GenAI • RAG • Agentic Systems
+Python | LLMs | Automation
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![GenAI](https://img.shields.io/badge/GenAI-LLMs-orange) ![RAG](https://img.shields.io/badge/RAG-Vector%20Search-green) ![Agents](https://img.shields.io/badge/Agentic%20AI-LangGraph-purple) ![Automation](https://img.shields.io/badge/Automation-n8n-black) ![Status](https://img.shields.io/badge/Status-Active-success)
 
-# 🚀 GenAI • RAG • Agentic Systems
+Production-grade Generative AI systems built using Retrieval-Augmented Generation (RAG), agentic workflows, and scalable automation pipelines. Focused on real-world deployment, performance optimization, and system reliability.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![GenAI](https://img.shields.io/badge/GenAI-LLMs-orange)
-![RAG](https://img.shields.io/badge/RAG-Vector%20Search-green)
-![Agents](https://img.shields.io/badge/Agentic%20AI-LangGraph-purple)
-![Automation](https://img.shields.io/badge/Automation-n8n-black)
-![Status](https://img.shields.io/badge/Status-Active-success)
+🌐 Portfolio
+• https://raghvender.vercel.app/
 
-> **Production-focused Generative AI systems** built around Retrieval-Augmented Generation (RAG), Agentic workflows, and intelligent automation.  
-> Designed for **real-world use cases**, not just demos.
+🔥 Overview
+Developed end-to-end implementations of RAG pipelines, multi-agent systems, and LLM-powered automation tools for knowledge retrieval, research assistance, and intelligent decision-making.
 
----
+🧠 Core Skills & Stack
 
-## 🔥 Overview
+🧩 Generative AI
+• Large Language Models (LLMs)
+• Prompt Engineering & Context Optimization
+• Embeddings & Semantic Search
+• Hallucination Reduction Techniques
 
-This repository contains **hands-on implementations** of:
-- Retrieval-Augmented Generation (RAG) systems  
-- Agentic AI workflows using LangGraph  
-- LLM-powered automation pipelines  
-- Practical GenAI tools for research, knowledge retrieval, and decision support  
+🔎 RAG Systems
+• Advanced Chunking (Recursive, Semantic)
+• Vector Databases: FAISS, Chroma
+• Hybrid Retrieval + Metadata Filtering
+• Cross-Encoder Re-ranking
+• Latency & Accuracy Optimization
 
-The focus is on **scalable architecture, optimized retrieval, and clean system design**.
+🤖 Agentic AI
+• Multi-Agent Workflows (LangGraph)
+• Tool-Using Agents
+• Planner–Executor Architectures
+• Critic / Feedback Loops
 
----
+🛠 Backend & Automation
+• n8n Workflow Automation
+• API-first AI Services
+• Webhook-driven Pipelines
 
-## 🧠 Core Skills & Stack
+👁️ Vision & Edge AI
+• OpenCV-based Systems
+• ESP32-CAM Integrations
+• Raspberry Pi Deployments
+• Real-time Perception Pipelines
 
-### 🧩 Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Embeddings & Semantic Search
-- Context optimization & hallucination reduction
-
-### 🔎 RAG Systems
-- Chunking strategies (recursive, semantic)
-- Vector databases: **FAISS, Chroma**
-- Hybrid search & metadata filtering
-- Cross-encoder re-ranking
-- RAG optimization for latency & accuracy
-
-### 🤖 Agentic AI
-- Multi-agent workflows (LangGraph)
-- Tool-using agents
-- Planner–Executor patterns
-- Critic / Reviewer loops
-
-### 🛠 Automation & Backend
-- n8n workflow automation
-- API-driven AI services
-- Webhook-based pipelines
-
-### 👁️ Computer Vision & IoT
-- OpenCV
-- ESP32-CAM
-- Raspberry Pi
-- Real-time perception systems
-
----
 
 
 
